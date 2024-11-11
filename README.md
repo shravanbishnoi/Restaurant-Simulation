@@ -27,9 +27,9 @@ The following data structures are utilized in the project:
 
 ## Installation
 Clone the repository and navigate to the directory:
-`git clone https://github.com/shravanbishnoi/Restaurant-Simulation/`
-`cd Restaurant-Simulation/`
-Make sure all required files are in the same directory, as the main simulation code (Restaurant.py) depends on other modules like sll_queue.py and Priority_Queue.py.
+- `git clone https://github.com/shravanbishnoi/Restaurant-Simulation/`
+- `cd Restaurant-Simulation/`
+- Make sure all required files are in the same directory, as the main simulation code (Restaurant.py) depends on other modules like sll_queue.py and Priority_Queue.py.
 
 ## Usage
 1. Run the simulation by executing the Restaurant.py file:
